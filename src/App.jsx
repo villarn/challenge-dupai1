@@ -1,7 +1,6 @@
 import React from 'react';
 import { Modal, ModalBody, ModalHeader } from 'reactstrap';
 import  {nanoid}  from 'nanoid';
-import { traverseTwoPhase } from 'react-dom/test-utils';
 
 function App() {
 
